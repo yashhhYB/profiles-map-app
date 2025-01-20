@@ -26,6 +26,11 @@ To get a local copy up and running, follow these steps:
    npm start
    ```
 
+
+![bnry](https://github.com/user-attachments/assets/a19247d3-0250-41f9-adaa-d298db97ae5a)
+![bnry2](https://github.com/user-attachments/assets/06e99003-3f38-46dd-bf1f-64b5fb539b3e)
+
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
